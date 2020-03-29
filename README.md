@@ -9,8 +9,9 @@ Your ship is in an endless quest and suddenly a group of asteroids is approachin
 * The obstacles are the asteroids in the space, they can go fast or slow, depending of the chosen difficulty,
   it has three different difficultie : easy, medium and hard. Although the hard mode is slower as the medium's, the 
   quantity of asteroids is the real challenge. If the ship gets touched by an asteroid, the game is over.
-
-IMAGES OF THE GAME (DIFFCULTY AND GAMEPLAY)!!
+  
+<img src="https://user-images.githubusercontent.com/43209755/77855529-9ff76a80-71b6-11ea-836d-6d43c2308cc9.png" width="560">
+<img src="https://user-images.githubusercontent.com/43209755/77855545-b3a2d100-71b6-11ea-9eba-870a3231775f.png" width="560">
 
 ### Game Structure
 The Game uses a single language for both visual and logical aspects, which is Java. 
